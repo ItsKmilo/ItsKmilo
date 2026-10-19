@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=fomz3k2nti7u40vu63bjonich)
 <!--
 **ItsKmilo/ItsKmilo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
