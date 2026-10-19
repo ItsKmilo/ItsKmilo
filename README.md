@@ -25,26 +25,16 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/ItsKmilo/ItsKmilo/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=ItsKmilo&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
 ###
+<p align="center">
+  <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=fomz3k2nti7u40vu63bjonich&theme=catppuccin&count=4&profile=off&username=off&footer=wave" alt="Spotify Recently Played">
+</p>
 
-<img data-importer="image" align="right" height="150" src="https://i1.sndcdn.com/avatars-1uLaZ4FnKTCamfOW-dDTEog-t240x240.jpg"  />
-
-###
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ItsKmilo/ItsKmilo/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ItsKmilo/ItsKmilo/pacman-output/galaga-contribution-graph.svg?game=galaga">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ItsKmilo/ItsKmilo/pacman-output/galaga-contribution-graph.svg?game=galaga">
-</picture>
-
-###
-
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=ItsKmilo.ItsKmilo&"  />
 </div>
 
 ###
